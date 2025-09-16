@@ -21,7 +21,7 @@ I'm a recent Mechanical Engineering graduate from **IIT Roorkee** on a self-dire
 - **LinkedIn:** [Siddharth Choudhary](https://www.linkedin.com/in/siddharth-choudhary-797391215/)
 
 #### ⚡ Fun fact:
-- My actual name is **Siddharth Choudhary**, but I choose to make public profiles with the name **Sid Hary** (from **SID**dharth choud**HARY**) so that anyone in the world can easily pronounce and remember my name.
+- My actual name is **Siddharth Choudhary**, but I chose to make public profiles with the name **Sid Hary** (from **SID**dharth choud**HARY**) so that anyone in the world can easily pronounce and remember my name.
 
 <!--
 **Sidified/Sidified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
