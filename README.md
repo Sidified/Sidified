@@ -7,6 +7,8 @@ I'm a recent Mechanical Engineering graduate from **IIT Roorkee** on a self-dire
 #### 🔭 I’m currently working on:
 - My foundational Solidity knowledge by building and refactoring smart contracts. Check out my first major project:
   - **[My First 5 Solidity Projects: A Beginner's Guide](https://github.com/Sidified/Solidity-Foundational-Projects)**
+- From "Hello World" to Full-Stack DeFi - A structured, test-driven approach to mastering smart contract development through hands on practicing:
+  - **[Sharing my journey from basics to DeFi](https://github.com/Sidified/Solidity-Foundry-Mastery)**
 
 #### 🌱 I’m currently learning:
 - Deep fundamentals of the EVM, Solidity, and gas optimization.
