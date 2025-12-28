@@ -5,6 +5,8 @@ I'm a recent Mechanical Engineering graduate from **IIT Roorkee** on a self-dire
 ---
 
 #### 🔭 I’m currently working on:
+- A decentralized automated payroll protocol powered by Chainlink Automation and VRF.
+  - **[An automated payroll](https://github.com/Sidified/foundry-automated-payroll)**
 - A decentralized, automated, and tamper-proof lottery system built with Foundry, Chainlink VRF, and Chainlink Automation.
   - **[A provably fair smart contract lottery using Chainlink VRF](https://github.com/Sidified/foundry-smart-contract-lottery)**
 - From "Hello World" to Full-Stack DeFi - A structured, test-driven approach to mastering smart contract development through hands on practicing:
