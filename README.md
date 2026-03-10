@@ -5,6 +5,8 @@ I'm a recent Mechanical Engineering graduate from **IIT Roorkee** on a self-dire
 ---
 
 #### 🔭 I’m currently working on:
+- A Rebase Token that dynamically increases user balances over time based on an interest rate.
+  - **[Rebase-Token](https://github.com/Sidified/Rebase-Token)**
 - A minimal over-collateralized decentralized stablecoin protocol built in Solidity using the Foundry framework.
   - **[Decentralized Stablecoin Protocol (DSC)](https://github.com/Sidified/DeFi-StableCoin)**
 - A decentralized automated payroll protocol powered by Chainlink Automation and VRF.
