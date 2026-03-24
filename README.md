@@ -32,8 +32,8 @@ Now, I’m focused on mastering decentralized systems and building projects that
 - Getting started in Web3 from a non-CS background.
 - My learning process and the resources I'm using.
 
-#### 📫 How to reach me:
-- **X/Twitter:** [@Sid_Hary_](https://twitter.com/Sid_Hary_)
+#### 📫 Connect with me:
+- **X/Twitter:** [@Sid_Hary_](https://X.com/Sid_Hary_)
 - **LinkedIn:** [Siddharth Choudhary](https://www.linkedin.com/in/siddharth-choudhary-797391215/)
 
 #### ⚡ Fun fact:
