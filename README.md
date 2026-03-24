@@ -1,7 +1,10 @@
 ### Hi there, I'm Sid 👋
 
-I'm a recent graduate from **IIT Roorkee** on a self-directed mission I call **'Exploring The Blockchain World'** I'm exploring about building the decentralized future and am documenting my entire learning journey in public.
-I’ve always wanted to build something that actually matters — something that solves real problems and creates real impact. I explored different paths, failed at some along the way too, learned from all of them… and somewhere along that journey, I discovered blockchain. What started as curiosity quickly turned into conviction. I realised this is a technology where I can build systems that are transparent, trustless, and capable of impacting people at scale.
+I'm a recent graduate from **IIT Roorkee**  building and learning in the blockchain space and I'm documenting my entire learning journey in public.
+
+I’ve always wanted to build something that actually matters — something that solves real problems and creates real impact. I've explored different paths, failed at some along the way too, learned from all of them… and somewhere along that journey, I discovered blockchain. What initially started as curiosity quickly turned into conviction. I realised this is a technology where I can build systems that are transparent, trustless, and capable of impacting people at scale.
+
+Now, I’m focused on mastering decentralized systems and building projects that reflect real understanding, not just surface-level code.
 
 ---
 
