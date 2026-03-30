@@ -9,6 +9,8 @@ Now, I’m focused on mastering decentralized systems and building projects that
 ---
 
 #### 🔭 I’m currently working on:
+- A Minimal Smart Contract Wallet built using the ERC-4337 Account Abstraction standard.
+  - **[Account Abstraction Wallet (ERC-4337)](https://github.com/Sidified/Account-Abstraction)**
 - A robust, production-ready implementation of the **UUPS (Universal Upgradeable Proxy Standard)** using Foundry and the latest **OpenZeppelin V5** libraries.
   - **[UUPS Upgradeable Protocol](https://github.com/Sidified/UUPS-Proxy-Protocol)**
 - A gas-efficient and secure token airdrop system using Merkle Trees and (upcoming) ECDSA signatures.
