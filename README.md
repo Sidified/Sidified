@@ -9,6 +9,8 @@ Now, I’m focused on mastering decentralized systems and building projects that
 ---
 
 #### 🔭 I’ve worked on:
+- An autonomous recurring payment protocol with escrow custody and full cancel rights, powered by Chainlink Automation.
+  - **[Decentralized Subscription Service](https://github.com/Sidified/Decentralized-Subscription-Service)**
 - A custodial vault that holds ETH or ERC20 deposits for a user-specified duration, with an optional fallback beneficiary who can claim the funds after an additional grace period if the depositor does not return.
   - **[Time-Locked-Vault](https://github.com/Sidified/Time-Locked-Vault)**
 - A Minimal Smart Contract Wallet built using the ERC-4337 Account Abstraction standard.
