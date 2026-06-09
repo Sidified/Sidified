@@ -3,10 +3,7 @@
 **Smart Contract Engineer · Solidity / Foundry · Security-Focused**
 
 Hi there👋, I'm Sid! IIT Roorkee grad (Mechanical Engineering, '25). Self-taught Solidity Dev. Shipping protocols with rigorous testing, working on contributing back to the eco-system, and pointed toward smart contract security auditing.
-
-- 🔧 **Currently:** Working on Cyfrin Security & Auditing along with making some of my own robust projects
-- 🌐 **Sharing all the learnings publicly on X:** [@Sid_Hary_](https://x.com/Sid_Hary_)
-- 📍 Sohagpur, M.P., India
+Currently Working on Cyfrin Security & Auditing and parallelly making some of my own robust projects. Sharing all the learnings publicly on X:** [@Sid_Hary_](https://x.com/Sid_Hary_)
 
 ---
 
