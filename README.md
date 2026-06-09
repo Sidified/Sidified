@@ -1,4 +1,4 @@
-# Siddharth Choudhary
+# Sid Hary
 
 **Smart Contract Engineer · Solidity / Foundry · Security-Focused**
 
