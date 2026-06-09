@@ -52,13 +52,9 @@ MakerDAO-style overcollateralized stablecoin with liquidation engine, health-fac
 **Languages:** Solidity, Bash
 
 **Frameworks:** Foundry (Forge, Cast, Anvil, Chisel)
-
 **Standards:** ERC-20, ERC-721, ERC-4337, UUPS proxies, EIP-712
-
 **Libraries:** OpenZeppelin v5, Solmate, Chainlink (VRF, Automation, CCIP, Price Feeds), SafeERC20
-
 **Security:** CEI pattern, ReentrancyGuard, invariant + fuzz testing, custom adversarial mocks, Merkle proofs, custom errors, low-level call patterns
-
 **Networks:** Ethereum, Sepolia, zkSync Era
 
 ---
