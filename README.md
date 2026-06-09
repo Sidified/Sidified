@@ -1,63 +1,69 @@
-### Hi there, I'm Sid 👋
+# Siddharth Choudhary
 
-I'm a recent graduate from **IIT Roorkee**,  building and learning in the blockchain space and I'm documenting my entire learning journey in public.
+**Smart Contract Engineer · Solidity / Foundry · Security-Focused**
 
-I’ve always wanted to build something that actually matters — something that solves real problems and creates real impact. I've explored different paths, failed at some along the way too, learned from all of them… and somewhere along that journey, I discovered blockchain. What initially started as curiosity quickly turned into conviction. I realised this is a technology where I can build systems that are transparent, trustless, and capable of impacting people at scale.
+Hi there👋, I'm Sid! IIT Roorkee grad (Mechanical Engineering, '25). Self-taught Solidity Dev. Shipping protocols with rigorous testing, working on contributing back to the eco-system, and pointed toward smart contract security auditing.
 
-Now, I’m focused on mastering decentralized systems and building projects that reflect real understanding, not just surface-level code.
+- 🔧 **Currently:** completed Cyfrin Advanced Foundry → working on Cyfrin Security & Auditing along with making some of my own robust projects → Codehawks / Sherlock contests
+- 🌐 **Sharing all the learnings publicly on X:** [@Sid_Hary_](https://x.com/Sid_Hary_)
+- 📍 Sohagpur, M.P., India
 
 ---
 
-#### 🔭 I’ve worked on:
-- An autonomous recurring payment protocol with escrow custody and full cancel rights, powered by Chainlink Automation.
-  - **[Decentralized Subscription Service](https://github.com/Sidified/Decentralized-Subscription-Service)**
-- A custodial vault that holds ETH or ERC20 deposits for a user-specified duration, with an optional fallback beneficiary who can claim the funds after an additional grace period if the depositor does not return.
-  - **[Time-Locked-Vault](https://github.com/Sidified/Time-Locked-Vault)**
-- A Minimal Smart Contract Wallet built using the ERC-4337 Account Abstraction standard.
-  - **[Account Abstraction Wallet (ERC-4337)](https://github.com/Sidified/Account-Abstraction)**
-- An implementation of the **UUPS (Universal Upgradeable Proxy Standard)** using Foundry and the latest **OpenZeppelin V5** libraries.
-  - **[UUPS Upgradeable Protocol](https://github.com/Sidified/UUPS-Proxy-Protocol)**
-- A gas-efficient and secure token airdrop system using Merkle Trees and (upcoming) ECDSA signatures.
-  - **[Merkle-Airdrop](https://github.com/Sidified/Merkle-Airdrop)**
-- A Rebase Token that dynamically increases user balances over time based on an interest rate.
-  - **[Rebase-Token](https://github.com/Sidified/Rebase-Token)**
-- A minimal over-collateralized decentralized stablecoin protocol built in Solidity using the Foundry framework.
-  - **[Decentralized Stablecoin Protocol (DSC)](https://github.com/Sidified/DeFi-StableCoin)**
-- A decentralized automated payroll protocol powered by Chainlink Automation and VRF.
-  - **[An automated payroll](https://github.com/Sidified/foundry-automated-payroll)**
-- A decentralized, automated, and tamper-proof lottery system built with Foundry, Chainlink VRF, and Chainlink Automation.
-  - **[A provably fair smart contract lottery using Chainlink VRF](https://github.com/Sidified/foundry-smart-contract-lottery)**
-- From "Hello World" to Full-Stack DeFi - A structured, test-driven approach to mastering smart contract development through hands on practicing:
-  - **[Sharing my journey from basics to DeFi](https://github.com/Sidified/Solidity-Foundry-Mastery)**
-- My foundational Solidity knowledge by building and refactoring smart contracts. Check out my first major project:
-  - **[My First 5 Solidity Projects: A Beginner's Guide](https://github.com/Sidified/Solidity-Foundational-Projects)**
+## Featured Projects
 
-#### 🌱 I’m currently learning:
-- Deep fundamentals of the EVM, Solidity, and gas optimization.
-- Advanced smart contract security patterns.
+### 🚀 [Decentralized Subscription Service](https://github.com/Sidified/Decentralized-Subscription-Service) — *Deployed: Sepolia*
+Autonomous recurring-payment protocol using per-user escrow custody that eliminates the infinite-approval risk of standard subscription models. Chainlink Automation executes renewals against isolated user balances; per-subscription failure isolation prevents one broken subscription from halting the entire batch.
+**70 tests + 3 fuzz tests + 2 stateful invariants running 256K+ randomized handler calls.**
 
-#### 💬 Ask me about:
-- Getting started in Web3 from a non-CS background.
-- My learning process and the resources I'm using.
+### 🔒 [Time-Locked Vault](https://github.com/Sidified/Time-Locked-Vault)
+Trustless ETH/ERC20 custody with admin-less architecture (no owner, no pause, no rescue). Hardened against malicious tokens via balance-delta accounting for fee-on-transfer detection and SafeERC20 for non-standard returns.
+**41 tests + 128K-operation invariant on ETH balance accounting, with custom adversarial mocks (FeeOnTransferToken, RejectingReceiver, ReentrantAttacker).**
 
-#### 📫 Connect with me:
-- **X/Twitter:** [@Sid_Hary_](https://X.com/Sid_Hary_)
+### 🔐 [ERC-4337 + zkSync Native Account Abstraction](https://github.com/Sidified/Account-Abstraction)
+Dual account-abstraction implementation across Ethereum (ERC-4337 minimal smart wallet) and zkSync Era (native AA flow). Diagnosed and fixed a CI failure caused by incompatibility between Foundry's standard workflow and zkSync's `--zksync` toolchain; contributed the fix upstream via [Cyfrin PR #20](https://github.com/Cyfrin/minimal-account-abstraction/pull/20).
+
+### 💵 [Decentralized Stablecoin Protocol (DSC)](https://github.com/Sidified/DeFi-StableCoin)
+MakerDAO-style overcollateralized stablecoin with liquidation engine, health-factor mechanics, and Chainlink Price Feeds. Invariant tests assert protocol solvency: total collateral USD value ≥ total DSC supply at all times.
+
+---
+
+## Open Source Contributions
+
+- **[Cyfrin / minimal-account-abstraction](https://github.com/Cyfrin/minimal-account-abstraction/pull/20)** — PR #20: CI workflow fix enabling correct separation of Foundry's standard toolchain from zkSync's `--zksync` toolchain.
+- **[Cyfrin / foundry-upgrades-cu](https://github.com/Cyfrin/foundry-upgrades-cu/issues/17)** — Issue #17: Documented OpenZeppelin v4 → v5 migration for upgradeable contract patterns.
+- **[Cyfrin / foundry-dao-cu](https://github.com/Cyfrin/foundry-dao-cu/issues/18)** — Issue #18: Documented OZ v4 → v5 migration across the DAO/Governor stack, including contract-size CI failure resolved via optimizer settings.
+
+---
+
+## Additional Projects
+
+- **[UUPS Upgradeable Protocol](https://github.com/Sidified/UUPS-Proxy-Protocol)** — Production-style upgradeable contracts with OpenZeppelin v5
+- **[Rebase Token + Chainlink CCIP](https://github.com/Sidified/Rebase-Token)** — Cross-chain rebasing token with lazy-minting interest accrual
+- **[Merkle Airdrop](https://github.com/Sidified/Merkle-Airdrop)** — Gas-efficient token distribution via Merkle proofs
+- **[Automated Payroll](https://github.com/Sidified/foundry-automated-payroll)** — Recurring payroll powered by Chainlink Automation + VRF
+- **[Provably Fair Lottery](https://github.com/Sidified/foundry-smart-contract-lottery)** — Chainlink VRF + Automation lottery with CEI guards
+- **[Simple DAO](https://github.com/Sidified/Simple-DAO)** — Five-contract OZ Governor stack (Box, GovToken, MyGovernor, TimeLock) with full v4 → v5 migration
+
+---
+
+## Stack
+
+**Languages:** Solidity, Bash
+**Frameworks:** Foundry (Forge, Cast, Anvil, Chisel)
+**Standards:** ERC-20, ERC-721, ERC-4337, UUPS proxies, EIP-712
+**Libraries:** OpenZeppelin v5, Solmate, Chainlink (VRF, Automation, CCIP, Price Feeds), SafeERC20
+**Security:** CEI pattern, ReentrancyGuard, invariant + fuzz testing, custom adversarial mocks, Merkle proofs, custom errors, low-level call patterns
+**Networks:** Ethereum, Sepolia, zkSync Era
+
+---
+
+## Connect
+
+- **X / Twitter:** [@Sid_Hary_](https://x.com/Sid_Hary_) — sharing all the learnings in public
 - **LinkedIn:** [Siddharth Choudhary](https://www.linkedin.com/in/siddharth-choudhary-797391215/)
+- **Email:** sidforwork46@gmail.com
 
-#### ⚡ Fun fact:
-- My actual name is **Siddharth Choudhary**, but I chose to make public profiles with the name **Sid Hary** (from **SID**dharth choud**HARY**) so that anyone in the world can easily pronounce and remember my name.
+---
 
-<!--
-**Sidified/Sidified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth choud**HARY**) so anyone in the world can pronounce and remember it.*
