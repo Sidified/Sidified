@@ -23,6 +23,9 @@ Dual account-abstraction implementation across Ethereum (ERC-4337 minimal smart 
 ### 💵 [Decentralized Stablecoin Protocol (DSC)](https://github.com/Sidified/DeFi-StableCoin)
 MakerDAO-style overcollateralized stablecoin with liquidation engine, health-factor mechanics, and Chainlink Price Feeds. Invariant tests assert protocol solvency: total collateral USD value ≥ total DSC supply at all times.
 
+### 💻 CURRENTLY WORKING ON -> [NFT-Gated-Membership-DAO](https://github.com/Sidified/NFT-Gated-Membership-DAO)
+A community bootstrapping a DAO. A pre-verified list of contributors (the VIP list) claims free, soulbound membership NFTs that grant governance voting power. The NFT's appearance dynamically upgrades on-chain based on governance participation. Members govern a treasury via a standard propose -> vote -> timelock -> execute flow.
+
 ---
 
 ## Open Source Contributions
