@@ -9,6 +9,9 @@ Currently Working on Cyfrin Security & Auditing and parallelly making some of my
 
 ## Featured Projects
 
+### 📝 [NFT-Gated-Membership-DAO](https://github.com/Sidified/NFT-Gated-Membership-DAO)
+A community bootstrapping a DAO. A pre-verified list of contributors (the VIP list) claims free, soulbound membership NFTs that grant governance voting power. The NFT's appearance dynamically upgrades on-chain based on governance participation. Members govern a treasury via a standard propose -> vote -> timelock -> execute flow.
+
 ### 🚀 [Decentralized Subscription Service](https://github.com/Sidified/Decentralized-Subscription-Service) — *Deployed: Sepolia*
 Autonomous recurring-payment protocol using per-user escrow custody that eliminates the infinite-approval risk of standard subscription models. Chainlink Automation executes renewals against isolated user balances; per-subscription failure isolation prevents one broken subscription from halting the entire batch.
 **70 tests + 3 fuzz tests + 2 stateful invariants running 256K+ randomized handler calls.**
@@ -22,9 +25,6 @@ Dual account-abstraction implementation across Ethereum (ERC-4337 minimal smart 
 
 ### 💵 [Decentralized Stablecoin Protocol (DSC)](https://github.com/Sidified/DeFi-StableCoin)
 MakerDAO-style overcollateralized stablecoin with liquidation engine, health-factor mechanics, and Chainlink Price Feeds. Invariant tests assert protocol solvency: total collateral USD value ≥ total DSC supply at all times.
-
-### 💻 CURRENTLY WORKING ON -> [NFT-Gated-Membership-DAO](https://github.com/Sidified/NFT-Gated-Membership-DAO)
-A community bootstrapping a DAO. A pre-verified list of contributors (the VIP list) claims free, soulbound membership NFTs that grant governance voting power. The NFT's appearance dynamically upgrades on-chain based on governance participation. Members govern a treasury via a standard propose -> vote -> timelock -> execute flow.
 
 ---
 
