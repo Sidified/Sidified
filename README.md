@@ -9,7 +9,7 @@ Currently Working on Cyfrin Security & Auditing and parallelly making some of my
 
 ## Featured Projects
 
-### 📝 [NFT-Gated-Membership-DAO](https://github.com/Sidified/NFT-Gated-Membership-DAO)
+### 📝 [NFT-Gated-Membership-DAO](https://github.com/Sidified/NFT-Gated-Membership-DAO) — *Deployed: Sepolia*
 A community bootstrapping a DAO. A pre-verified list of contributors (the VIP list) claims free, soulbound membership NFTs that grant governance voting power. The NFT's appearance dynamically upgrades on-chain based on governance participation. Members govern a treasury via a standard propose -> vote -> timelock -> execute flow.
 
 ### 🚀 [Decentralized Subscription Service](https://github.com/Sidified/Decentralized-Subscription-Service) — *Deployed: Sepolia*
