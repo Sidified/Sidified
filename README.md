@@ -4,12 +4,8 @@
 
 Hi, I'm Sid 👋 I made a deliberate pivot into AI Engineering, and I'm documenting the entire build project by project — right here.
 
-Currently working through a roadmap: Python & LLM foundations → prompting, 
+Currently working through a structure roadmap: Python & LLM foundations → prompting, 
 RAG, and eval-driven development → agents & deployment → specialization.
-
-I'm aiming to specialize in **eval-driven development** — treating LLM evaluation with the same 
-rigor as traditional software testing (invariants, property-based checks, systematic failure 
-analysis) rather than "vibes-based" prompting.
 
 ---
 
@@ -32,3 +28,5 @@ analysis) rather than "vibes-based" prompting.
 
 - **LinkedIn:** [Siddharth Choudhary](https://linkedin.com/in/siddharth-choudhary-797391215)
 - **Email:** sidforwork46@gmail.com
+
+*Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth chou**dHARY**) so anyone in the world can pronounce and remember it.*
