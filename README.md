@@ -29,4 +29,4 @@ RAG, and eval-driven development → agents & deployment → specialization.
 - **LinkedIn:** [Siddharth Choudhary](https://linkedin.com/in/siddharth-choudhary-797391215)
 - **Email:** sidforwork46@gmail.com
 
-<mark>*Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth chou**dHARY**) so anyone in the world can pronounce and remember it.*</mark>
+`*Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth chou**dHARY**) so anyone in the world can pronounce and remember it.*`
