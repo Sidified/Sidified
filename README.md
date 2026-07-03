@@ -30,4 +30,5 @@ RAG, and eval-driven development → agents & deployment → specialization.
 - **Email:** sidforwork46@gmail.com
 
 ---
-### *`Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth chou**dHARY**) so anyone in the world can pronounce and remember it.`*
+
+> *Fun fact: My real name is Siddharth Choudhary, but my public handles use "Sid Hary" (from **SID**dharth chou**dHARY**) so anyone in the world can pronounce and remember it.*
