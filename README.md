@@ -15,7 +15,7 @@ analysis) rather than "vibes-based" prompting.
 
 ## 🚧 Currently Building
 
-- [ ] Python foundations (in progress)
+- [🔹] Python foundations (in progress)
 - [ ] LLM foundations & prompting
 - [ ] RAG systems + eval pipelines
 - [ ] Agents & deployment
