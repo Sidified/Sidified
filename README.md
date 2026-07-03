@@ -25,7 +25,7 @@ analysis) rather than "vibes-based" prompting.
 
 ## 📌 Projects
 
-[**Project Python**](https://github.com/Sidified/Project-Python)
+## [**Project Python**](https://github.com/Sidified/Project-Python)
   - A repository documenting my journey of learning and mastering Python through structured hands-on practice, and progressively challenging projects.
 
 ## Connect
