@@ -21,7 +21,7 @@ analysis) rather than "vibes-based" prompting.
 - [ ] Agents & deployment
 - [ ] Specialization project + OSS contribution
 
-*(This list updates as I go — check commit history for the real-time log.)*
+*(This list updates as I go.)*
 
 ## 📌 Projects
 
