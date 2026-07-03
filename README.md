@@ -1,6 +1,6 @@
 # Sid Hary
 
-### Pivoting into AI Engineering | IIT Roorkee, Mechanical Engineering '25
+### Into Artificial Intelligence Engineering | IIT Roorkee, Mechanical Engineering '25
 
 Hi, I'm Sid 👋 I made a deliberate pivot into AI Engineering, and I'm documenting the entire build project by project — right here.
 
