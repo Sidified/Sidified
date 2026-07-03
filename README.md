@@ -25,8 +25,8 @@ analysis) rather than "vibes-based" prompting.
 
 ## 📌 Projects
 
-New projects land here as I ship them, each with a `notes.md` documenting what I learned and 
-how it was tested/verified.
+[**Project Python**](https://github.com/Sidified/Project-Python)
+  - A repository documenting my journey of learning and mastering Python through structured hands-on practice, and progressively challenging projects.
 
 ## Connect
 
