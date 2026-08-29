@@ -28,6 +28,9 @@ RAG, and eval-driven development → agents & deployment → specialization.
 ## [Project Python :snake:](https://github.com/Sidified/Project-Python)
   - A repository documenting my journey of learning and mastering Python through structured hands-on practice, and progressively challenging projects.
 
+## [ML Fundamentals :bar_chart:](https://github.com/Sidified/Machine-Learning-Fundamentals/tree/main)
+  - Six notebooks working through the core ML workflow, each ending with a decision rather than a score.
+
 ## Connect
 
 - **LinkedIn:** [Siddharth Choudhary](https://linkedin.com/in/siddharth-choudhary-797391215)
