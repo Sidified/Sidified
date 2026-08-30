@@ -4,7 +4,7 @@
 
 Hi, I'm Sid 👋 I made a deliberate pivot into AI Engineering, and I'm documenting the entire build project by project — right here.
 
-Currently working through a structure roadmap: Python & LLM foundations → prompting, 
+Currently working through a structure roadmap: Python Foundation -> ML-DL & LLM foundations → prompting, 
 RAG, and eval-driven development → agents & deployment → specialization.
 
 ---
