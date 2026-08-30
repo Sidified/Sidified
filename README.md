@@ -25,11 +25,14 @@ RAG, and eval-driven development → agents & deployment → specialization.
 
 ## 📌 Projects
 
-## [Project Python :snake:](https://github.com/Sidified/Project-Python)
-  - A repository documenting my journey of learning and mastering Python through structured hands-on practice, and progressively challenging projects.
-
+## [Home-Credit-Default-Risk :credit_card:](https://github.com/Sidified/Home-Credit-Default-Risk)
+  - Loan default prediction for thin-file applicants. Five engineered ratios beat two million-row tables.
+    
 ## [ML Fundamentals :bar_chart:](https://github.com/Sidified/Machine-Learning-Fundamentals/tree/main)
   - Six notebooks working through the core ML workflow, each ending with a decision rather than a score.
+
+## [Project Python :snake:](https://github.com/Sidified/Project-Python)
+  - A repository documenting my journey of learning and mastering Python through structured hands-on practice, and progressively challenging projects.
 
 ## Connect
 
