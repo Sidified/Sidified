@@ -13,7 +13,7 @@ RAG, and eval-driven development → agents & deployment → specialization.
 
 - [ ] Python foundations (Done ✅)
 - [ ] ML and DL foundations (In Progress 📶)
-- [ ] LLM foundations & prompting
+- [ ] LLM foundations & prompting (In Progress 📶)
 - [ ] RAG systems + eval pipelines
 - [ ] AI Agents
 - [ ] APIs and Backend
