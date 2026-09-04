@@ -25,6 +25,9 @@ RAG, and eval-driven development → agents & deployment → specialization.
 
 ## 📌 Projects
 
+## [gpt-from-scratch :abacus:](https://github.com/Sidified/gpt-from-scratch)
+  - A decoder-only transformer (GPT-2 architecture) implemented from scratch in PyTorch, trained on character-level Shakespeare, then used as a controlled testbed for component ablations and inference-latency experiments.
+
 ## [Home-Credit-Default-Risk :credit_card:](https://github.com/Sidified/Home-Credit-Default-Risk)
   - Loan default prediction for thin-file applicants. Five engineered ratios beat two million-row tables.
     
