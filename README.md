@@ -1,27 +1,8 @@
 # Sid Hary
 
-### Into Artificial Intelligence Engineering | IIT Roorkee, Mechanical Engineering '25
+### Working on Artificial Intelligence | IIT Roorkee, Mechanical Engineering '25
 
-Hi, I'm Sid 👋 I am working towards AI Engineering, and I'm documenting the entire build project by project — right here.
-
-Currently working through a structure roadmap: Python Foundation -> ML-DL & LLM foundations → prompting, 
-RAG, and eval-driven development → agents & deployment → specialization.
-
----
-
-## 🚧 Currently Building
-
-- [ ] Python foundations (Done ✅)
-- [ ] ML and DL foundations (In Progress 📶)
-- [ ] LLM foundations & prompting (In Progress 📶)
-- [ ] RAG systems + eval pipelines
-- [ ] AI Agents
-- [ ] APIs and Backend
-- [ ] AI System Design
-- [ ] MLOPs and Cloud
-- [ ] Specialization project + OSS contribution
-
-*(This list updates as I go.)*
+Hi, I'm Sid 👋 I am working on AI, and I'm documenting the entire build project by project — right here.
 
 ## 📌 Projects
 
