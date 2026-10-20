@@ -6,6 +6,9 @@ Hi, I'm Sid 👋 I am working on AI, and I'm documenting the entire build projec
 
 ## 📌 Projects
 
+## [RailSaathi 🚅](https://github.com/Sidified/railsaathi)
+  - An unofficial assistant for Indian Railways passenger rules: cancellation refunds, TDR, Tatkal, waitlist/RAC, charting, boarding change and luggage.
+
 ## [gpt-from-scratch :abacus:](https://github.com/Sidified/gpt-from-scratch)
   - A decoder-only transformer (GPT-2 architecture) implemented from scratch in PyTorch, trained on character-level Shakespeare, then used as a controlled testbed for component ablations and inference-latency experiments.
 
